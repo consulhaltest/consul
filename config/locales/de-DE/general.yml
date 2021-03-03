@@ -22,7 +22,7 @@ de:
       user_permission_verify: Damit Sie alle Funktionen nutzen können, müssen Sie ihr Konto verifizieren.
       user_permission_verify_info: "* Nur für in der Volkszählung registrierte Nutzer."
       user_permission_votes: An finaler Abstimmung teilnehmen
-      username_label: Benutzer*innenname
+      username_label: Benutzername
       verified_account: Konto verifiziert
       verify_my_account: Mein Konto verifizieren
   application:
@@ -32,10 +32,10 @@ de:
     comments_closed: Kommentare sind geschlossen
     verified_only: Zur Teilnahme %{verify_account}
     comment:
-      admin: Administrator*in
-      author: Verfasser*in
+      admin: Administrator
+      author: Verfasser
       deleted: Dieser Kommentar wurde gelöscht
-      moderator: Moderator*in
+      moderator: Moderator
       responses:
         zero: Keine Rückmeldungen
         one: 1 Antwort
