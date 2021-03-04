@@ -89,8 +89,8 @@ de:
     user_permission_debates: An Diskussion teilnehmen
     user_permission_info: Durch die Verifizierung Ihrer Daten, können Sie...
     user_permission_proposal: Neue Vorschläge erstellen
-    user_permission_support_proposal: Vorschläge unterstützen*
-    user_permission_votes: An finaler Abstimmung teilnehmen*
+    user_permission_support_proposal: Vorschläge unterstützen
+    user_permission_votes: An finaler Abstimmung teilnehmen
     verified_user:
       form:
         submit_button: Code senden
